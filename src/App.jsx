@@ -1,9 +1,13 @@
+import Check from "./check";
+import Chaiii from "./Chai";
 function App() {
   return (
-    <div>
+    <>
       <h1>hey there</h1>
       <p>hey para</p>
-    </div>
+      <Check />
+      <Chaiii />
+    </>
   );
 }
 
